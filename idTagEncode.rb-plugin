@@ -1,0 +1,10 @@
+[RB Plugin]
+Loader=python
+Module=idTagEncode
+IAge=1
+Name=EncodingTag
+Description=Encode id3 tags to UTF-8
+Authors=Sergey Mihailov <sergey.mihailov@gmail.com>
+Copyright=Copyright © 2010 Sergey Mihailov
+Website=http://mxlinux.blogspot.com/
+
